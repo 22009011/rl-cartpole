@@ -140,7 +140,8 @@ def mc_control (env,n_bins=g_bins, gamma = 1.0,
 
 
 3. In your submission text, mention the average number of steps maintained over a four-minute period when the Monte Carlo (MC) control algorithm is executed with pretrained Q-values.
-![output](./output/o4.jpg)
+![image](https://github.com/user-attachments/assets/7df1c7db-f9f6-4e6c-846e-ef39bcae7293)
+
 
 
 ## RESULT:
